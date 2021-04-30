@@ -1,7 +1,7 @@
 {
   "name": "gatsby-plugin-quotebacks",
   "description": "Loads the Quotebacks JavaScript for embedding quotes.",
-  "version": "3.5.0-next.0",
+  "version": "3.6.0",
   "author": "Luis Cuende <me@luisc.xyz>",
   "bugs": {
     "url": "https://github.com/luisivan/gatsby-plugin-quotebacks"
